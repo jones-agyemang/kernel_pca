@@ -1,0 +1,2 @@
+# Core ML Libraries
+numpy #1.26
